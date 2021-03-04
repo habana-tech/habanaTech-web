@@ -11,7 +11,9 @@
         "bolt/redactor": "^1.0",
         "bolt/themes": "^3.3",
         "symfony/flex": "^1.6",
-        "appolodev/bolt-seo": "^1.0"
+        "appolodev/bolt-seo": "^1.0",
+        "twig/cssinliner-extra": "^3.3",
+        "twig/inky-extra": "^3.3"
     },
     "autoload": {
         "psr-4": {
